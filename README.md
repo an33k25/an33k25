@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @an33k25
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML,CSS and Java 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML,CSS and ReactJs 
+- 💞️ I’m looking to collaborate on Front End 
 - 📫 How to reach me - aneekksaha@gmail.com
-
-<!---
-an33k25/an33k25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
