@@ -52,12 +52,12 @@
 ---
 
 ## 🧠 Currently Learning
-
-- 📗 System Design
-- 💻 Back-End API Security
+- 🚀 Deepening my skills as a **Full Stack Developer**
+- 🧰 Building secure and scalable back-end APIs
+- 🐘 Learning **PHP** and the **Laravel** framework
+- 🌐 Exploring **WordPress** development and theme customization
 - 🧱 Blockchain Integration for Healthcare
-- 🧰 Advanced PostgreSQL with FastAPI
-
+- 🗃️ Advanced PostgreSQL with FastAPI
 ---
 
 ## 🎧 Fun Fact
