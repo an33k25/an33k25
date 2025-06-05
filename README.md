@@ -45,7 +45,7 @@
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aneeksaha&show_icons=true&theme=radical" alt="Aneek's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=an33k25&show_icons=true&theme=radical" alt="Aneek's GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=an33k25&theme=radical" alt="GitHub Streak" />
 </p>
 
